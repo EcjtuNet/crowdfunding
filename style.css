@@ -15,7 +15,7 @@ img {border-width: 0px;}
 .headtext {
 	text-align: center;
 	margin-top: 150px;
-	color: #505252;
+	color: rgba(110, 87, 107, 0.59);
 }
 a{
 	color: #000;
@@ -257,6 +257,6 @@ a{
   position: absolute;
   top:0;
   z-index: -999;
-  background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgba(35, 151, 80, 0.75)),to(rgba(2, 8, 6, 0.7)));
+  background:-webkit-gradient(linear, 0 0, 0 bottom, from(rgba(35, 177, 98, 0.82)),to(rgba(46, 191, 145, 0.73)));
 }
 /*gx*/
